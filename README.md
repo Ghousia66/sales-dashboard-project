@@ -16,4 +16,4 @@ Interactive dashboard built using Power BI to visualize sales performance.
 - Interactive filters (Region, Category)
 
 ### Dashboard Preview
-![Dashboard](dashboard.png)(filtered dashboard.png)
+[Dashboard] (dashboard.png) (filtered dashboard.png)
